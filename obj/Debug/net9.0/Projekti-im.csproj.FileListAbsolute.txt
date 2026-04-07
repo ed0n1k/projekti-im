@@ -1,0 +1,5 @@
+C:\Users\NB\Desktop\Projekti-im\obj\Debug\net9.0\Projekti-im.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB\Desktop\Projekti-im\obj\Debug\net9.0\Projekti-im.AssemblyInfoInputs.cache
+C:\Users\NB\Desktop\Projekti-im\obj\Debug\net9.0\Projekti-im.AssemblyInfo.cs
+C:\Users\NB\Desktop\Projekti-im\obj\Debug\net9.0\Projekti-im.csproj.CoreCompileInputs.cache
+C:\Users\NB\Desktop\Projekti-im\obj\Debug\net9.0\Projekti-im.sourcelink.json
